@@ -7,14 +7,25 @@ ETL é um tipo de data integration em três etapas (extração, transformação,
 ![image](https://user-images.githubusercontent.com/112008347/194424738-791e1cf5-85e5-4147-a89c-0c3bfd59c2eb.png)
 fonte: https://www.sas.com/pt_br/insights/data-management/o-que-e-etl.html
 
-## Iniciando - Projeto 
+## 1 Iniciando - Ponto de vista do Projeto 
 
 Vamos iniciar com o ponto de vista do projeto, para isso vamos realizar alguns passo importante.
 
-### 1 - Definir os Requisitos
+### 1.1 - Definir os Requisitos
 
 Aqui vamos entrevistar úsuarios, para isso vamos utilizar uma ferramenta chamada 5W2H para entender melhor o que, como, quando e onde irá ocorrer este projeto. 
 
        " ENTENDER O QUE O CLIENTE QUER E ENTREGAR O QUE ELE PRECISA"
 
 Apos enterder o plano do cliente vamos realizar a prototipação.
+
+### 1.2 - Prototipação.
+Desenha e conversa com o cliente o que ele quer, para ter uma ideia e um esboço inicial do que o cliente gostaria de ver. (reunião de 1hora)
+
+### 1.3 - Verificar a viabilidade nas fontes de dados
+Fazer validação técnica, procurar responsavel pelos dados (TI)
+
+### 1.4 - Desenhar DW
+
+
+
